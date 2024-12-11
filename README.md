@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=github" alt="version badge"/>
   <img src="https://img.shields.io/badge/Made%20With-Python-blue?style=for-the-badge&logo=python" alt="python badge"/>
-  <img src="https://img.shields.io/github/stars/yourusername/Chat-AI?style=for-the-badge" alt="stars badge"/>
-  <img src="https://img.shields.io/github/forks/yourusername/Chat-AI?style=for-the-badge" alt="forks badge"/>
+  <img src="https://img.shields.io/github/stars/akashvim3/Chat-AI?style=for-the-badge" alt="stars badge"/>
+  <img src="https://img.shields.io/github/forks/akashvim3/Chat-AI?style=for-the-badge" alt="forks badge"/>
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ Check the [Contributing Guidelines](CONTRIBUTING.md) for more information.
 
 For inquiries or feedback, reach out via:
 
-- **Email**: [yourname@example.com](mailto:ajyak749@gmail.com)
+- **Email**: [ajyak749@gmail.com](mailto:ajyak749@gmail.com)
 - **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ---
